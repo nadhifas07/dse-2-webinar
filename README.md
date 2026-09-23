@@ -1,4 +1,3 @@
-<img width="468" height="138" alt="image" src="https://github.com/user-attachments/assets/1647387f-73a7-4b45-bd2d-e38bf3d08247" /># dse-2-webinar
 Meeting 2 - Exploratory Data Analysis (EDA) and Regression on Supervised Learning
 1. Statistik deskriptif komputasional. 
 2. Apa itu Exploratory Data Analysis (EDA)?
